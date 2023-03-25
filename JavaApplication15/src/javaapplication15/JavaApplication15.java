@@ -16,6 +16,7 @@ public class JavaApplication15 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("This is another branch");
+        System.out.println("This is change1 in another branch");
     }
     
 }
